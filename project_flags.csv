@@ -1,0 +1,5 @@
+Project,Budget_Declared,Actual_Spent,Outcome,Budget_Gap,Ghost_Risk
+ Bulacan,6048486.0,400000.0,incomplete,5648486.0,True
+Quezon City,4200000.0,4000000.0,completed,200000.0,False
+Nueva Vizcaya,3800000.0,800000.0,incomplete,3000000.0,True
+Davao Occidental,2500000.0,2450000.0,completed,50000.0,False
